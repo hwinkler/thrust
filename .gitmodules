@@ -2,4 +2,4 @@
 	path = dependencies/cub
 	url = ../cub.git
 [submodule "dependencies/cub"]
-	url = git@github.com:hwinkler/cub.git
+	url = https://github.com/hwinkler/cub.git
